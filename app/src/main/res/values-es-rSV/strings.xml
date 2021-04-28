@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EmojiApp</string>
+    <string name="emoji_image">Emoji image</string>
+    <string name="prev">Prev</string>
+    <string name="next">Next</string>
+</resources>
